@@ -1,1 +1,7 @@
-# VideoGameSales
+## Introduction
+
+## Questions
+
+## Analysis
+
+## Conclusion
