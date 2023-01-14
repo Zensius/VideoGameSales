@@ -3,12 +3,13 @@
 ## Questions
 
 ## Analysis
-![](https://github.com/Zensius/VideoGameSales/blob/main/figure/TopPublisher.png)
-![](https://github.com/Zensius/VideoGameSales/blob/main/figure/GlobalSalePerYear-1.png)
-![](https://github.com/Zensius/VideoGameSales/blob/main/figure/Growth-1.png)
-![](https://github.com/Zensius/VideoGameSales/blob/main/figure/globalbyGenre-1.png)
-![](https://github.com/Zensius/VideoGameSales/blob/main/figure/NAbyGenre-1.png)
-![](https://github.com/Zensius/VideoGameSales/blob/main/figure/Platform.png)
-![](https://github.com/Zensius/VideoGameSales/blob/main/figure/TopSales.png)
+
+<img src="./figure/TopPublisher.png" alt="missing.png"> 
+<img src="./figure/GlobalSalePerYear-1.png" alt="missing.png"> 
+<img src="./figure/Growth-1.png" alt="missing.png"> 
+<img src="./figure/globalbyGenre-1.png" alt="missing.png"> 
+<img src="./figure/NAbyGenre-1.png" alt="missing.png"> 
+<img src="./figure/Platform.png" alt="missing.png"> 
+<img src="./figure/TopSales.png" alt="missing.png"> 
 
 ## Conclusion
