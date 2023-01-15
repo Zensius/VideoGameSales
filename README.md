@@ -1,6 +1,6 @@
 ## Introduction
 ---
-Being the gamer I am, I don't really know much about them outside of the usual genre that I like. I've always been curious about the statistics on video game sales. I've seen old gaming magazines on retro game prices at staggering $70 back in the 90s. Compared to the recent decade, video game prices have remained relatively the same, excluding collector's editions. How has the genre of games evolved? It seems like FPS and MOBA games are dominating the market today, with Riot games and Bungie being the most well known for their games. Therefore, I downloaded this data set on [Kaggle](kaggle.com) to analyze publisher, total sales, popularity in genre, and more.
+Being the gamer I am, I don't really know much about them outside of the usual genre that I like. I've always been curious about the statistics on video game sales. I've seen old gaming magazines on retro game prices at staggering $70 back in the 90s. Compared to the recent decade, video game prices have remained relatively the same, excluding collector's editions. How has the genre of games evolved? It seems like FPS and MOBA games are dominating the market today, with Riot games and Bungie being the most well known for their games. Therefore, I downloaded this data set on [Kaggle](https://kaggle.com) to analyze publisher, total sales, popularity in genre, and more.
 ## Questions
 1. What year did video games become popular and entertainment of choice among teenagers?
 2. What is the most popular Genre of games
@@ -23,8 +23,9 @@ Next, I want to investigate the sales over the years by specifically analyzing t
 Additionally, when looking at the games sold by genre from Japan and Americans, it’s quite remarkable how different these two region’s interest in games. While Japanese favor slow, dialogue heavy role-playing games, and platforming games like the Mario and Donkey Kong franchise, North Americans prefer fast paced action, first-person shooter, and sports games. 
 
 <img src="./figure/Platform.png" alt="missing.png">
-Lastly, I want to highlight the limitations of this dataset. It seems like this dataset is heavily skewed by the amount of console and handheld games, especially the Nintendo DS platform. While In today’s market, consoles like the Playstation, Xbox, and Nintendo Switch are still maintaining their popularity, PC games are more favored to adapt to the online free-to-play model of recently released games. Yet all those four mentioned platforms are still dwarfed by the mobile game industry. With a 92.2 billion USD revenue in 2022, compared to 51.8 billion in console[Source] A more updated dataset which includes mobile games such as Genshin impact would be interesting to see how it compares. 
+Lastly, I want to highlight the limitations of this dataset. It seems like this dataset is heavily skewed by the amount of console and handheld games, especially the Nintendo DS platform. While In today’s market, consoles like the Playstation, Xbox, and Nintendo Switch are still maintaining their popularity, PC games are more favored to adapt to the online free-to-play model of recently released games. Yet all those four mentioned platforms are still dwarfed by the mobile game industry. With a 92.2 billion USD revenue in 2022, compared to 51.8 billion in console. A more updated dataset which includes mobile games such as Genshin impact would be interesting to see how it compares. 
 
+Source: [link](https://www.statista.com/statistics/292751/mobile-gaming-revenue-worldwide-device/#:~:text=In%202022%2C%20mobile%20games%20are,U.S.%20dollars%20in%20global%20revenue.)
 ---
 
 That is the end of my analysis. 
